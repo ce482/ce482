@@ -1,8 +1,8 @@
 ## 👋 Hi there! I'm Chloe Eng
 
-🎓 I'm a junior at the University of Chicago studying **Computer Science**  
-🎨 I'm also a multidisciplinary artist — I love drawing, painting, and sewing  
+🎓 I'm a junior at the University of Chicago studying **Computer Science**
 🤖 I'm passionate about **AI/ML**, **product management**, and **UI/UX design**
+🎨 I'm also an artist — I love drawing, painting, and sewing  
 
 ---
 
@@ -24,7 +24,6 @@
 - Building delightful AI tools  
 - Improving UX through user testing  
 - Designing systems that scale (technically and for humans)
-
 
 ---
 
