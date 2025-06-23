@@ -1,4 +1,4 @@
-## 👋 Hi there! I'm Chloe Eng
+## Hi there! I'm Chloe Eng
 
 🎓 I'm a junior at the University of Chicago studying **Computer Science**
 🤖 I'm passionate about **AI/ML**, **product management**, and **UI/UX design**
