@@ -14,13 +14,13 @@
 ---
 
 ### 🔧 Skills & Tools
-- **Languages**: Python, C++, HTML/CSS, JavaScript  
+- **Languages**: Python, C++, HTML/CSS
 - **Frameworks**: React, Astro, Node.js  
 - **Design & PM**: Figma, Git, Supabase, Make.AI
 
 ---
 
-### 🌱 Currently Exploring
+### 🌱 Currently 
 - Building delightful AI tools  
 - Improving UX through user testing  
 - Designing systems that scale (technically and for humans)
